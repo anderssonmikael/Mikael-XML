@@ -1,1 +1,1 @@
-Simple function parsing an XML files value to a .txt as a codetest for Etteplan.
+Simple function parsing an .xml file value to a .txt as a codetest for Etteplan.
